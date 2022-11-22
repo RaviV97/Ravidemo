@@ -1,0 +1,9 @@
+{
+	"name": "GitDemoRavi",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ecc4f4da-3d56-4ea9-b706-029c2eb9a56e",
+		"tenantId": "2cd6f6d9-8088-4595-b167-0259ccd5899a"
+	}
+}
